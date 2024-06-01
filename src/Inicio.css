@@ -1,0 +1,16 @@
+.bienvenida {
+    margin-bottom: 20px; 
+    text-align: center;
+}
+
+.info-producto {
+    padding: 2rem;
+    text-align: justify;
+}
+
+.pantalla {
+    background: linear-gradient(to bottom, #5053f0, #1eddff);
+    height: 100vh;
+    margin: 0;
+    color: black;
+}
